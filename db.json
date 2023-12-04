@@ -43,7 +43,7 @@
         "date": "8-11 juli 2024",
         "time": "14:00",
         "organisator": "Duvel Moortgat",
-        "logo": "https://www.carnifest.com/wp-content/uploads/2021/10/Jazz.be-photo-Frederik_Declercq.jpg"
+        "image": "https://www.carnifest.com/wp-content/uploads/2021/10/Jazz.be-photo-Frederik_Declercq.jpg"
       },
       {
         "id": 5,
@@ -54,7 +54,7 @@
         "date": "16-19 juni 2024",
         "time": "12:00",
         "organisator": "Bob Schoenmaekers",
-        "logo": "https://photos.bandsintown.com/large/10015469.jpeg"
+        "image": "https://photos.bandsintown.com/large/10015469.jpeg"
       }
     ]
   }
